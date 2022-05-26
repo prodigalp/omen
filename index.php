@@ -12,7 +12,7 @@
             <nav>
                 <div class="navigation">
                     <ul>
-                        <li><a href="sindex.php">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="#skills">Skills</a></li>
                         <li><a href="#prjs">Project</a></li>
                         <li><a href="#" id="myBtns">Resume</a></li>
